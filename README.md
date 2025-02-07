@@ -19,6 +19,7 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustus281&theme=dark&hide_border=false" alt="GitHub Readme Streak Stats"/><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustus281&show_icons=true&locale=en" alt="tri218138" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustus281&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages"/>
 
 </div>
