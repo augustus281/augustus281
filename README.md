@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Platform Engineer
+# 👋 Hi, I’m Software Engineer
 
-🚀 Platform Engineer passionate about building scalable, reliable, and automated developer platforms.
+🚀 Software Engineer passionate about building scalable, reliable, and automated developer platforms.
 
 🔧 I specialize in Cloud Infrastructure, Kubernetes, DevOps automation, and Platform Engineering tooling.
 
