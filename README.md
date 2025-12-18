@@ -1,7 +1,5 @@
-# 👋 Hi, I’m Software Engineer
+# 👋 Hi, I’m Software Engineer.
 
-🚀 Software Engineer passionate about building scalable, reliable, and automated developer platforms.
-
-🔧 I specialize in Cloud Infrastructure, Kubernetes, DevOps automation, and Platform Engineering tooling.
+🚀 Driven by curiosity, I enjoy digging deep into how things work and how to make them better.
 
 📫 Contact me: **augustusnguyen.work@gmail.com**<br>
